@@ -1,0 +1,16 @@
+com\carpentrius\gui\views\MainGUI$1.class
+com\carpentrius\gui\views\MainGUI$2.class
+com\carpentrius\gui\utils\HibernateUtil.class
+com\carpentrius\gui\entities\Organization.class
+com\carpentrius\gui\entities\User.class
+com\carpentrius\gui\views\customer\CustomerIndexView.class
+com\carpentrius\gui\views\header\NavigationView.class
+com\carpentrius\gui\entities\Address.class
+com\carpentrius\gui\views\MainGUI.class
+com\carpentrius\gui\entities\Customer.class
+com\carpentrius\gui\views\customer\AddressIndexView.class
+com\carpentrius\gui\views\MainGUI$3.class
+com\carpentrius\gui\App$1.class
+com\carpentrius\gui\entities\SocialType.class
+com\carpentrius\gui\views\ViewService.class
+com\carpentrius\gui\App.class
